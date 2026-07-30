@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
