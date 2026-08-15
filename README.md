@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
