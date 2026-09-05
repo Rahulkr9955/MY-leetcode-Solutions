@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
