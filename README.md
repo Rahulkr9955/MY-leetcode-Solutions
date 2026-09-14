@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Divide and Conquer
