@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1089-duplicate-zeros](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
