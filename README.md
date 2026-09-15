@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1089-duplicate-zeros](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
