@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Trie
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2460-apply-operations-to-an-array](https://github.com/Rahulkr9955/MY-leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
 |  |
