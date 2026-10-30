@@ -1,30 +1,29 @@
 class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
 
-        int cols = encodedText.length() / rows;
+        int n = encodedText.length();
+
+        if (rows == 1) return encodedText;
+
+        int cols = n / rows;
 
         StringBuilder ans = new StringBuilder();
 
         for (int c = 0; c < cols; c++) {
 
-            int r = 0;
-            int j = c;
+            for (int i = 0; i < rows && c + i < cols; i++) {
 
-            while (r < rows && j < cols) {
-
-                ans.append(encodedText.charAt(r * cols + j));
-
-                r++;
-                j++;
+                ans.append(encodedText.charAt(i * cols + c + i));
             }
         }
 
         // Remove trailing spaces
-        while (ans.length() > 0 &&
-               ans.charAt(ans.length() - 1) == ' ') {
-            ans.deleteCharAt(ans.length() - 1);
+        int len = ans.length();
+
+        while (len > 0 && ans.charAt(len - 1) == ' ') {
+            len--;
         }
 
-        return ans.toString();
+        return ans.substring(0, len);
     }
 }
